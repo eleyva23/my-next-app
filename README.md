@@ -1,6 +1,7 @@
 This is "MY-NEXT-APP". This app shows react component structure, stat managment, event handling, accessibility, and reusability.
 How to download
 Known issues include: no data presistence, step input doesn't prevent negative numbers, and not yet deployed publically. 
+Respritoray link: https://github.com/eleyva23/my-next-app
 **Clone or download this repository**
    ```bash
    git clone <your-repo-url>
