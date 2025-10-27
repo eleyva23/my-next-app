@@ -1,3 +1,12 @@
+This is "MY-NEXT-APP". This app shows react component structure, stat managment, event handling, accessibility, and reusability.
+How to download
+Known issues include: no data presistence, step input doesn't prevent negative numbers, and not yet deployed publically. 
+**Clone or download this repository**
+   ```bash
+   git clone <your-repo-url>
+   cd nextjs-button-counter
+   
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
