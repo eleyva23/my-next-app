@@ -5,7 +5,7 @@ import { useState } from 'react';
 type CounterProps = {
   initialCount?: number;
   initialStep?: number;
-  minCount?: number; // optional: clamp at 0 by default
+  minCount?: number; 
 };
 
 export default function Counter({
